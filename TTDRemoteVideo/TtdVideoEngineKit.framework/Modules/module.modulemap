@@ -1,0 +1,6 @@
+framework module TtdVideoEngineKit {
+  umbrella header "TtdVideoEngineKit.h"
+
+  export *
+  module * { export * }
+}
