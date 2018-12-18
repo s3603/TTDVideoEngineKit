@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "TTDVideoEngineKit"
-  s.version      = "0.3.0"
+  s.version      = "0.4.0"
   s.summary      = "TTD TTDVideoEngineKit."
   s.homepage     = "http://www.totodi.cn/"
   s.license 	 = { :'type' => 'Copyright', :'text' => ' Copyright 2018 TTD '}   
